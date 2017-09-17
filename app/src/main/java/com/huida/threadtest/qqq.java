@@ -5,5 +5,5 @@ package com.huida.threadtest;
  */
 
 public class qqq {
-    
+
 }
